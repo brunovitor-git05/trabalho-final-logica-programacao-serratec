@@ -16,11 +16,11 @@ O objetivo do trabalho é implementar diferentes exercícios utilizando **Portug
 
 # 👨‍💻 Integrantes do Grupo
 
-- **Bernardo da Silva Araújo de Oliveira**
-- **Bruno Vitor Cordeiro Gomes**
-- **Caio Vinicius Dias**
-- **Elionardo Silva dos Santos**
-- **Paulo Cesar Neto**
+- **[Bernardo da Silva Araújo de Oliveira](https://github.com/BernardoSilvaOliveira)**
+- **[Bruno Vitor Cordeiro Gomes](https://github.com/brunovitor-git05)**
+- **[Caio Vinicius Dias](https://github.com/dev-caiodias)**
+- **[Elionardo Silva dos Santos](https://github.com/elionardosantos)**
+- **[Paulo Cesar Neto](https://github.com/paulocesar-neto)**
 
 Os exercícios foram distribuídos entre os integrantes do grupo para que cada um fosse responsável por desenvolver uma parte do projeto.  
 
